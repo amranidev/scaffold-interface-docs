@@ -1,3 +1,5 @@
+# A Smart CRUD Generator For Laravel
+
 ![demo](http://i.imgur.com/65uhrP7.gif)
 
 # Introduction

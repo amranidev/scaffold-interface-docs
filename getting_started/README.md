@@ -8,7 +8,7 @@
 
 	```json
 		require : {
-			"Amranidev/scaffold-interface": "v1.6.*"
+			"Amranidev/scaffold-interface": "v1.7.*"
 		}
 	```
 

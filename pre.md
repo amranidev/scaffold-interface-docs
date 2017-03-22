@@ -1,6 +1,10 @@
 ### Prerequisites
 
-Scaffold interface requires PHP >=5.6
+
+| Scaffold-interface version | PHP version     |
+|----------------------------|-----------------|
+|       v1.6.0 or less       |      >=5.6      |
+|       ^1.6.1     |      >=7.0      |
 
 | Laravel version | Scaffold-interface version |
 |-----------------|----------------------------|

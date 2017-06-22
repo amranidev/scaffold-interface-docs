@@ -61,7 +61,7 @@
 
 5. Authentication scaffolding.
 
-	`$ php artsain make:auth`
+	`$ php artisan make:auth`
 
 6. Add HasRole dependency to app/User.php:
 

@@ -2,7 +2,7 @@
 
 > make sure that you have installed scaffold-interface correctly
 
-Scaffold interface provides a simple way to create crud, models/views/constroller and relationships as OneToMany/ManyToMany. 
+Scaffold interface provides a simple way to create (CRUD), models/views/controllers and relationships as OneToMany/ManyToMany.
 
 Scaffold-interface is definitely quite simple, all you have to do is click here and there to get it done.
 
@@ -26,4 +26,4 @@ Let's begin.
 
 Well, your model is ready to use.
 
-> To delete your entity just rollback its table from database clicking on rollback button first, then click on delete button to be deleted form your app.
+> To delete your entity just rollback its table from database clicking on rollback button first, then click on delete button to be deleted from your app.

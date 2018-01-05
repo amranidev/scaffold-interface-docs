@@ -14,7 +14,7 @@ Pusher is a highly scalable real-time solution established in 2010 and has lots 
 
 Before we get started, you have to create a pusher account.
 
-Please sign up for a free Pusher account via [pusher.com/signup](pusher.com/signup), and create a new app via Pusher dashboard.
+Please sign up for a free Pusher account via [pusher.com/signup](https://pusher.com/signup), and create a new app via Pusher dashboard.
 
 #### Configuration
 
